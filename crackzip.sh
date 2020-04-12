@@ -31,7 +31,7 @@ do
       if [[ $EXIT_STATUS -eq 0 ]]
       then
          #echo $EXIT_STATUS
-         echo "Total times is : $TIMES"
+         echo "Total times are : $TIMES"
          echo "password has been found : $pwd_str"
          exit 0
       else
