@@ -1,4 +1,4 @@
-## 利用7z 破解压缩文件
+## 利用7z破解压缩文件
 ---
 
 该程序主要是利用crunch 程序和crackzip.sh脚本来破解加密的zip文件， 程序可以在Linux或macos 中，本程序重点测试了macos 
