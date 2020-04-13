@@ -1,7 +1,6 @@
 ## 利用7z破解压缩文件
 ---
-
-该程序主要是利用crunch 程序和crackzip.sh脚本来破解加密的zip文件， 程序可以在Linux或macos 中，本程序重点测试了macos 
+该程序主要是利用crunch 程序和crackzip.sh脚本来破解加密的zip文件， 程序可以在Linux或macos 中，本程序重点测试了macos
 
 ### 1.安装crunch
 
@@ -31,7 +30,3 @@ bogon:crackzip lfp$ ./crackzip.sh xxx.zip
 Total times is : 3
 password has been found : av72
 ```
-
-
-
-
